@@ -1,1 +1,3 @@
-# first-rust
+# Rust
+
+- Rust を試してみる
