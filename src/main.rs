@@ -8,4 +8,14 @@ fn main() {
 
     // 要素数3のベクタ
     let mut vec: Vec<i32> = vec![1, 2, 3];
+    
+    // if文
+    if x == 5{
+        println!("x=5");
+    }
+
+    // for文
+    for i in 0..10 {
+        println!("in for-loop: {}", i)
+    }
 }
